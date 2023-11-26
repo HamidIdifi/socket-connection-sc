@@ -5,9 +5,9 @@ A Java project demonstrating client-server communication using sockets. This rep
 
 - **Multithreaded Server**: Efficiently handles multiple client connections concurrently using threading.
 - **Single-Threaded Server**: Provides a single-threaded alternative for basic understanding and comparison.
-- **Socket Communication: Illustrates the use of sockets for communication between client and server.
+- **Socket Communication**: Illustrates the use of sockets for communication between client and server.
 - **Easy to Use**: Straightforward code structure for easy comprehension and modification.
-- 
+  
 ## Prerequisites
 - Java 17
 - Maven
