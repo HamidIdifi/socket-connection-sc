@@ -1,0 +1,9 @@
+
+æ
+java:S1598"ÃThis file "Server.java" should be located in "com\jetBrains\blocking\singlethread" directory, not in "C:\workplace\distributed-systems-course\src\main\java\com\jetBrains\blockingIO\singleThread".(ÿØ³Íûÿÿÿÿ8Î†ùş¹1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿØ³Íûÿÿÿÿ8¬äöş¹1
+f
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ï÷¯W8Èäöş¹1
+G	java:S106"+Replace this use of System.out by a logger.(¥›Á½8Øäöş¹1
+L	java:S106"+Replace this use of System.out by a logger.(¢Ùúˆùÿÿÿÿ8İäöş¹1
+G	java:S106"+Replace this use of System.out by a logger.(Å¸‰Ë8áäöş¹1
